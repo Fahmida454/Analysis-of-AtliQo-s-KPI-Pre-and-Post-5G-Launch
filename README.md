@@ -4,6 +4,20 @@
 
 This report provides an in-depth analysis of key performance indicators (KPIs) for AtliQo before and after the launch of its 5G services in May 2022. The aim is to evaluate the impact of the 5G launch on the company's performance and provide insights to help management make informed decisions to recover active user rates and optimize internet plans. The analysis covers data from January to September 2022, focusing on KPIs such as total revenue, average ARPU, internet plan revenue, active users, unsubscribed users, and churn rate.
 
+![telecom 1](https://github.com/Fahmida454/Analysis-of-AtliQo-s-KPI-Pre-and-Post-5G-Launch/assets/136923833/d04cac59-708b-477f-a7b3-5bd7ce8834a4)
+
+
+![tele 2](https://github.com/Fahmida454/Analysis-of-AtliQo-s-KPI-Pre-and-Post-5G-Launch/assets/136923833/413d4f94-1de0-4759-acd9-f539763d6e18)
+
+
+![tele 3](https://github.com/Fahmida454/Analysis-of-AtliQo-s-KPI-Pre-and-Post-5G-Launch/assets/136923833/041451ff-0a2d-4cbe-83f5-b044dfac686c)
+
+
+![Tele 4](https://github.com/Fahmida454/Analysis-of-AtliQo-s-KPI-Pre-and-Post-5G-Launch/assets/136923833/d753448e-bc81-4716-8fff-288cf6705fb3)
+
+
+
+
 ## Key Performance Indicators Analysis
 
 ### Total Revenue
@@ -37,8 +51,6 @@ Revenue from internet plans increased by 0.19k units after the 5G launch, indica
   - **Difference:** +2.31%
 
 The churn rate increased by 2.31% after the 5G launch, indicating higher user attrition.
-
- ![Revenue Table](https://github.com/Fahmida454/Analysis-of-AtliQo-s-KPI-Pre-and-Post-5G-Launch/assets/136923833/2538cad1-ea5a-4071-b15b-494e45492675)
 
 
 ### Active Users
